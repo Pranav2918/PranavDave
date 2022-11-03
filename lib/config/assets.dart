@@ -6,4 +6,5 @@ class ImageAsset {
   static const github = 'assets/github.png';
   static const instagram = 'assets/instagram.png';
   static const linkedin = 'assets/linkedin.png';
+  static const dummyProject = "assets/dummy.jpg";
 }
